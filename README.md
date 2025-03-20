@@ -7,4 +7,4 @@ This project builds an **AWS Data Lake & Analytics Pipeline** using:
 - **Querying & Metadata Management**: AWS Athena
 - **Visualization**: Amazon QuickSight
 
-## 📂 Folder Structure
+
